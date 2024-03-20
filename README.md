@@ -15,11 +15,12 @@ About Me
 ## Projects
 ### My projects showcase a blend of AI application and innovation across different domains:
 
-5G-NR Communications Package Development: Designed and implemented a package to enhance 5G-NR communication efficiency.
-Medical Data Classification: Applied deep learning models for accurate classification of medical datasets.
-Segmentation in Medical Data: Developed models for precise segmentation in medical imaging, improving diagnostic processes.
-Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.
-Reinforcement Learning in Gaming: Engineered solutions using reinforcement learning to solve complex game scenarios effectively.
+* 5G-NR Communications Package Development: Designed and implemented a package to enhance 5G-NR communication efficiency.
+* Medical Data Classification: Applied deep learning models for accurate classification of medical datasets.
+* Segmentation in Medical Data: Developed models for precise segmentation in medical imaging, improving diagnostic processes.
+* Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.
+* Reinforcement Learning in Gaming: Engineered solutions using reinforcement learning to solve complex game scenarios effectively.
+  
 Feel free to browse through my repositories to see more about my work. I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.
 
 <!--[Project Name 1]: [Brief Description] | Link to Project
