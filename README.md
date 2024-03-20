@@ -16,12 +16,16 @@ About Me
 ### My projects showcase a blend of AI application and innovation across different domains:
 
 * 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms.
-* ![4 QAM test](https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/9adc7e23-4de5-49e7-8862-130ff6e55e0e)
-* ![64 QAM test](https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/d90e8d15-e272-4e73-9ee1-d0cc17c2a611)
+* ![4 QAM test](https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/9adc7e23-4de5-49e7-8862-130ff6e55e0e){: width="100" height="100"}
+* ![64 QAM test](https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/d90e8d15-e272-4e73-9ee1-d0cc17c2a611){: width="100" height="100"}
 
 * Medical Data Classification: Applied deep learning models for accurate classification of medical datasets.
 * Segmentation in Medical Data: Developed models for precise segmentation in medical imaging, improving diagnostic processes.
-![masking (1)](https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/3f8d12ea-c39c-4684-b728-c055867b919d)
+
+
+https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/25a19faf-87a9-4a9a-87ee-d6dba85efc02
+
+
 
 * Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.
 * Reinforcement Learning in Gaming: Engineered solutions using reinforcement learning to solve complex game scenarios effectively.
