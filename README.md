@@ -8,31 +8,32 @@ About Me
 
 ----------------
 
-# My Technical Toolbox
+# My Technical Toolbox 📕
 ## Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 ## Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> and other machine learning libraries.
 ## Tools: Experienced with Docker, Git, and specialized tools for AI development and research.
 ## Projects
 ### My projects showcase a blend of AI application and innovation across different domains:
 
-* 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms.
+* 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms.💻
 <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/9adc7e23-4de5-49e7-8862-130ff6e55e0e" width="400" height="300" />
 <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/d90e8d15-e272-4e73-9ee1-d0cc17c2a611" width="400" height="300" />
 
-* Medical Data Classification: Applied deep learning models for accurate classification of medical datasets.
-* Segmentation in Medical Data: Developed models for precise segmentation in medical imaging, improving diagnostic processes.
+* Medical Data Classification: Did you know that the diagnosis of tuberculosis is often made solely through the visual assessment by doctors? How about seeking assistance from artificial intelligence? Here is a deep learning model that can be used as an aid in diagnosing tuberculosis in infants. This model estimates the probability of tuberculosis diagnosis in infants and suggests the location of lesions based on Grad Cam.🩺
+* Segmentation in Medical Data: Are you aware that distinguishing the pancreas in abdominal CT images is challenging? Not only is the pancreas difficult to visualize, but pancreatic cancer can also be dangerous. I introduce a model that segments the location of the pancreas.🩻
 <p align="center">
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/4623e559-6e82-4c25-8066-af7de9f6285d" width="300" height="300" />
 </p>
 
-* Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.
-* Reinforcement Learning in Gaming: Engineered solutions using reinforcement learning to solve complex game scenarios effectively.
+* Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.🎮
+* Reinforcement Learning in Gaming: The 2048 game is a fun puzzle game. How about solving this classic game through reinforcement learning? Will the model use a strategy similar to humans, pushing the larger numbers to the corners?🕹️
 
 <p align="center">
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/d9e2e2eb-afe6-446b-92c3-08fe68eda952" />
 </p>
 
-Feel free to browse through my repositories to see more about my work. I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.
+Feel free to browse through my repositories to see more about my work. 
+I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.👐
 
 <!--[Project Name 1]: [Brief Description] | Link to Project
 [Project Name 2]: [Brief Description] | Link to Project-->
