@@ -9,10 +9,13 @@ About Me
 ----------------
 
 # My Technical Toolbox 📕
-## Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-## Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> and other machine learning libraries.
-## Tools: Experienced with Docker, Git, and specialized tools for AI development and research.
-## Projects
+Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> and other machine learning libraries.
+Tools: Experienced with Docker, Git, and specialized tools for AI development and research.
+
+-----------
+
+# Projects
 ### My projects showcase a blend of AI application and innovation across different domains:
 
 * 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms.💻
