@@ -1,21 +1,26 @@
 ## Hi there, I'm MinHyuk. 👋
-I'm a Deep Learning Developer and a recent Master's graduate in Computer Science (2024), with a keen interest in solving complex challenges through innovative deep learning solutions.
+Welcome to my GitHub profile! I'm a Deep Learning Developer with a Master's degree in Computer Engineering from 2024, where I dived deep into solving distributed source coding through AI. My curiosity and passion for AI have led me to explore various domains, with a recent focus on "generative AI" and "image processing".
 
 About Me
-* 🎓 Earned my Master's degree in Computer Science in 2024, specializing in deep learning applications.
-* 💡 Passionate about leveraging deep learning to decode the complexities of distributed source coding.
-* 🌱 Currently, I'm dedicated to advancing the field of deep learning by improving efficiency and effectiveness in distributed source coding.
-* 👯 I’m looking to collaborate on projects focused on innovative AI applications and deep learning research.
-* 📫 How to reach me: hyuk6745@gmail.com
+* 🎓 Graduated with a Master's in Computer Science in 2024, my thesis focused on constructing the architecture for distributed source coding using AI technologies.
+* 💡 Fascinated by all things AI, with current interests in generative AI and image processing technologies.
+* 🛠 I've been involved in diverse projects, leveraging AI to solve real-world problems within various fields.
 
+----------------
 
-My Technical Toolbox
-# Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> and other machine learning libraries.
-Tools: Proficient with Docker, Git, and various development tools suited for AI research and development.
-Projects
-Distributed Source Coding Using Deep Learning: A groundbreaking project where I applied deep learning techniques to enhance distributed source coding. This work contributes to the efficiency and reliability of distributed systems in processing and transmitting information.
-Feel free to explore my repositories to see more of my work and the innovative solutions I'm working on. I'm always open to feedback, collaborations, and opportunities to push the boundaries of what's possible with AI and deep learning.
+# My Technical Toolbox
+## Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+## Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> and other machine learning libraries.
+## Tools: Experienced with Docker, Git, and specialized tools for AI development and research.
+## Projects
+### My projects showcase a blend of AI application and innovation across different domains:
+
+5G-NR Communications Package Development: Designed and implemented a package to enhance 5G-NR communication efficiency.
+Medical Data Classification: Applied deep learning models for accurate classification of medical datasets.
+Segmentation in Medical Data: Developed models for precise segmentation in medical imaging, improving diagnostic processes.
+Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.
+Reinforcement Learning in Gaming: Engineered solutions using reinforcement learning to solve complex game scenarios effectively.
+Feel free to browse through my repositories to see more about my work. I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.
 
 <!--[Project Name 1]: [Brief Description] | Link to Project
 [Project Name 2]: [Brief Description] | Link to Project-->
