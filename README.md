@@ -21,9 +21,10 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 ### My projects showcase a blend of AI application and innovation across different domains:
 
 * 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms.💻
-<img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/9adc7e23-4de5-49e7-8862-130ff6e55e0e" width="400" height="300" />
-<img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/d90e8d15-e272-4e73-9ee1-d0cc17c2a611" width="400" height="300" />
-
+<p align="center">
+  <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/9adc7e23-4de5-49e7-8862-130ff6e55e0e" width="400" height="300" />
+  <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/d90e8d15-e272-4e73-9ee1-d0cc17c2a611" width="400" height="300" />
+</p>
 * Medical Data Classification: Did you know that the diagnosis of tuberculosis is often made solely through the visual assessment by doctors? How about seeking assistance from artificial intelligence? Here is a deep learning model that can be used as an aid in diagnosing tuberculosis in infants. This model estimates the probability of tuberculosis diagnosis in infants and suggests the location of lesions based on Grad Cam.🩺
 * Segmentation in Medical Data: Are you aware that distinguishing the pancreas in abdominal CT images is challenging? Not only is the pancreas difficult to visualize, but pancreatic cancer can also be dangerous. I introduce a model that segments the location of the pancreas.🩻
 <p align="center">
