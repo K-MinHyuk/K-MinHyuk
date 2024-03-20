@@ -10,7 +10,7 @@ About Me
 
 
 My Technical Toolbox
-Languages: Proficient in Python; experienced in using PyTorch for deep learning projects.
+# Languages: <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
 Frameworks & Libraries: PyTorch, TensorFlow, and other machine learning libraries.
 Tools: Proficient with Docker, Git, and various development tools suited for AI research and development.
 Projects
