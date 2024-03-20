@@ -26,9 +26,9 @@ About Me
 
 * Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements.
 * Reinforcement Learning in Gaming: Engineered solutions using reinforcement learning to solve complex game scenarios effectively.
-<center>  
-![미디어1 (online-video-cutter com)](https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/0c7152f6-1878-4084-9465-5e137bfa5a1b)
-</center>center>  
+<center> 
+  <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/0c7152f6-1878-4084-9465-5e137bfa5a1b" width="300" height="300" />
+</center>  
 
 Feel free to browse through my repositories to see more about my work. I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.
 
