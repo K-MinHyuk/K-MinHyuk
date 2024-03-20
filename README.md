@@ -10,8 +10,8 @@ About Me
 
 
 My Technical Toolbox
-# Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-Frameworks & Libraries: PyTorch, TensorFlow, and other machine learning libraries.
+# Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> and other machine learning libraries.
 Tools: Proficient with Docker, Git, and various development tools suited for AI research and development.
 Projects
 Distributed Source Coding Using Deep Learning: A groundbreaking project where I applied deep learning techniques to enhance distributed source coding. This work contributes to the efficiency and reliability of distributed systems in processing and transmitting information.
