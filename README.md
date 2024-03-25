@@ -53,8 +53,9 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 
 * Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements. Please check here 👉 [🎮](https://github.com/K-MinHyuk/OP.gg_hackathon). 
 
-Feel free to browse through my repositories to see more about my work. 
-I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.👐
 
-<!--[Project Name 1]: [Brief Description] | Link to Project
-[Project Name 2]: [Brief Description] | Link to Project-->
+In addition to the various projects shown above, we also have a range of projects prepared involving diffusion networks, Transformers, GANs (Generative Adversarial Networks), and more!
+
+Feel free to browse through my repositories to see more about my work. 
+
+I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.👐
