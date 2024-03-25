@@ -39,7 +39,7 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/4623e559-6e82-4c25-8066-af7de9f6285d" width="300" height="300" />
 </p>
 
-* Multi-Modal Segmentation in Medical Data: This project focuses on brain tumor segmentation using multi-modal brain data as input. The output provides probabilities for various types of tumors, including edema, advancing tumor, non-advancing tumor, and necrotic tumor core.
+* Multi-Modal Segmentation in Medical Data: This project focuses on brain tumor segmentation using multi-modal brain data as input. The output provides probabilities for various types of tumors, including edema, advancing tumor, non-advancing tumor, and necrotic tumor core.  Please check here 👉 [🧑‍⚕️](https://github.com/K-MinHyuk/Multimodal_Brain_tumor_Segmentation). 
 
 <p align="center">
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/246a7585-b338-475b-a533-9cba90127670"/>
