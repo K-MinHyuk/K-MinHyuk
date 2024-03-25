@@ -55,7 +55,5 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 
 
 In addition to the various projects shown above, we also have a range of projects prepared involving diffusion networks, Transformers, GANs (Generative Adversarial Networks), and more!
-
 Feel free to browse through my repositories to see more about my work. 
-
 I am always open to feedback, collaborations, and discussions on how AI can be used to solve complex problems and create new possibilities.👐
