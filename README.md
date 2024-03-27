@@ -45,7 +45,7 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/246a7585-b338-475b-a533-9cba90127670"/>
 </p>
 
-* Medical Data Classification: Did you know that the diagnosis of tuberculosis is often made solely through the visual assessment by doctors? How about seeking assistance from artificial intelligence? Here is a deep learning model that can be used as an aid in diagnosing tuberculosis in infants. This model estimates the probability of tuberculosis diagnosis in infants and suggests the location of lesions based on Grad Cam. Please check here 👉 [🩺](https://github.com/K-MinHyuk/CapstoneDesign2022_1_DEML).
+* Medical Data Classification: Did you know that the diagnosis of tuberculosis is often made solely through the visual assessment by doctors? How about seeking assistance from artificial intelligence? Here is a deep learning model that can be used as an aid in diagnosing tuberculosis in infants. This model estimates the probability of tuberculosis diagnosis in infants and suggests the location of lesions based on Grad Cam. Please check here 👉 [🩺](https://github.com/K-MinHyuk/Pneumonia_Classification).
 <p align="center">
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/54fb6083-24b1-4c89-b95a-5bc18abdb7eb" width="400" height="200" />
   <img src="https://github.com/K-MinHyuk/K-MinHyuk/assets/63450024/a0fab611-5d35-4034-8f75-792a07648b4b" width="400" height="200" />
