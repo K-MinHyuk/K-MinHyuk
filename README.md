@@ -18,6 +18,7 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 -----------
 
 # Projects
+<details>
 ### My projects showcase a blend of AI application and innovation across different domains:
 
 * 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms. Please check here 👉 [💻](https://github.com/K-MinHyuk/CapstoneDesign2022_1_DEML).
@@ -52,7 +53,7 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 </p>
 
 * Game Data Analysis: Analyzed game data to derive insights that inform strategy and game design improvements. Please check here 👉 [🎮](https://github.com/K-MinHyuk/OP.gg_hackathon). 
-
+</details>
 
 In addition to the various projects shown above, here also have a range of projects prepared involving diffusion networks, Transformers, GANs (Generative Adversarial Networks), and more!
 Feel free to browse through my repositories to see more about my work. 
