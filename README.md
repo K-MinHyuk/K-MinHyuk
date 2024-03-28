@@ -17,8 +17,9 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 
 -----------
 
-# Projects
+
 <details>
+  <summary># Projects </summary>
 ### My projects showcase a blend of AI application and innovation across different domains:
 
 * 5G-NR Communications Package Development: Try using PyTorch for your 5G NR communication simulator instead of Matlab! With PyTorch, you can more easily simulate 5G NR communication based on deep learning algorithms. Please check here 👉 [💻](https://github.com/K-MinHyuk/CapstoneDesign2022_1_DEML).
