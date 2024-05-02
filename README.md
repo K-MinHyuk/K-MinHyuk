@@ -18,7 +18,7 @@ Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badg
 -----------
 
 
-<details>
+<details open>
   <summary> <h1>Projects</h1> </summary>
   
 ### My projects showcase a blend of AI application and innovation across different domains:
