@@ -6,6 +6,7 @@ About Me
 * 💡 Fascinated by all things AI, with current interests in generative AI and image processing technologies.
 * 🛠 I've been involved in diverse projects, leveraging AI to solve real-world problems within various fields.
 
+<!---
 ----------------
 
 # My Technical Toolbox 📕
@@ -14,7 +15,7 @@ Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-ba
 Frameworks & Libraries: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> and other machine learning libraries.
 
 Tools: <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+-->
 -----------
 
 
