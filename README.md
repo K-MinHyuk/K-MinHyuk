@@ -1,14 +1,14 @@
 ## Hi there, I'm MinHyuk Kim 👋
 
-Welcome to my GitHub profile.
+Welcome to my GitHub.
 
-I am a Deep Learning Researcher currently working at the **Computer Vision team at ETRI (Electronics and Telecommunications Research Institute)** in South Korea.
+I'm an **AI Researcher** working in the field of computer vision and intelligent systems.
 
-I received my Master’s degree from Hallym University. My research focused on designing and optimizing a **source coding** method grounded in information theory. I implemented this method using a VQ-VAE framework.
+I received my Master’s degree from **Hallym University** in 2024. During my graduate studies, I focused on designing and optimizing a **source coding method** grounded in **information theory**, which I implemented using a **VQ-VAE framework**.
 
-My current work lies at the intersection of **Embodied AI** and **Brain-Computer Interfaces (BCI)**, aiming to create intelligent, perceptive systems.
+Currently, I’m part of the **Computer Vision team at ETRI (Electronics and Telecommunications Research Institute)** in South Korea. My research lies at the intersection of **Embodied AI** and **Brain-Computer Interfaces (BCI)**, with the goal of developing intelligent and perceptive systems.
 
-I am particularly interested in **integrating diverse AI technologies** into unified frameworks. This includes both lightweight approaches—such as **Vision-Language Models (VLMs)**—and **modular architectures** that independently combine capabilities based on **Memory, Control, and Perception (MCP)** paradigms.
+Recently, I’ve been particularly interested in **integrating diverse AI technologies** into unified frameworks. This includes lightweight combinations—such as **Vision-Language Models (VLMs)**—as well as **modular architectures** that independently combine capabilities based on the **Memory, Control, and Perception (MCP)** paradigm.
 
 ### 🔍 Research Interests
 - Generative AI (LLMs, VLMs, diffusion models)
