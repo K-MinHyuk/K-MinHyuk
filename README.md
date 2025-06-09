@@ -1,10 +1,22 @@
-## Hi there, I'm MinHyuk. 👋
-Welcome to my GitHub profile! I'm a Deep Learning Developer with a Master's degree in Computer Engineering from 2024, where I dived deep into solving distributed source coding through AI. My curiosity and passion for AI have led me to explore various domains, with a recent focus on "generative AI" and "image processing".
+## Hi there, I'm MinHyuk Kim 👋
 
-About Me
-* 🎓 Graduated with a Master's in Computer Science in 2024, my thesis focused on constructing the architecture for distributed source coding using AI technologies.
-* 💡 Fascinated by all things AI, with current interests in generative AI and image processing technologies.
-* 🛠 I've been involved in diverse projects, leveraging AI to solve real-world problems within various fields.
+Welcome to my GitHub profile.
+
+I am a Deep Learning Researcher currently working at the **Computer Vision team at ETRI (Electronics and Telecommunications Research Institute)** in South Korea.
+
+I received my Master’s degree from Hallym University. My research focused on designing and optimizing a **source coding** method grounded in information theory. I implemented this method using a VQ-VAE framework.
+
+My current work lies at the intersection of **Embodied AI** and **Brain-Computer Interfaces (BCI)**, aiming to create intelligent, perceptive systems.
+
+I am particularly interested in **integrating diverse AI technologies** into unified frameworks. This includes both lightweight approaches—such as **Vision-Language Models (VLMs)**—and **modular architectures** that independently combine capabilities based on **Memory, Control, and Perception (MCP)** paradigms.
+
+### 🔍 Research Interests
+- Generative AI (LLMs, VLMs, diffusion models)
+- Brain-Computer Interfaces
+- Embodied AI and intelligent agents
+- AI system integration and architecture design
+- Information-theoretic representation learning
+
 
 <!---
 
